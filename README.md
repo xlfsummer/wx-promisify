@@ -1,5 +1,5 @@
 # wx-promisify
-A function that convert wx callback-form function to Promise
+A function that convert wx callback-form function to Promise.
 
 ```javascript
 //before
