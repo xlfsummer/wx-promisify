@@ -6,10 +6,10 @@ A function that convert wx callback-form function to Promise.
 wx.chooseImage({
   count: 1,
   success: data => {
-    //handle err
+    //handle data
   },
   fail: err => {
-    //handle data
+    //handle err
   }
 });
 
